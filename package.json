@@ -1,0 +1,19 @@
+{
+  "name": "mongoapp",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "mongo.js",
+  "scripts": {
+  "start": "node mongo.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
